@@ -1,0 +1,7 @@
+# This project only uses Python's built-in standard library:
+#   - tkinter (GUI)
+#   - sqlite3 (database)
+#   - csv, hashlib, os (utilities)
+#
+# No external packages need to be installed via pip.
+# This file is included for completeness / GitHub convention.

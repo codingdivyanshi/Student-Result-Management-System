@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database (generated automatically when the app runs)
+database/results.db
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
